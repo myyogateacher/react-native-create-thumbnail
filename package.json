@@ -1,5 +1,5 @@
 {
-  "name": "react-native-create-thumbnail-33",
+  "name": "@humanz/react-native-create-thumbnail-33",
   "title": "React Native Create Thumbnail",
   "version": "1.6.4",
   "description": "iOS/Android thumbnail generator with support for both local and remote videos",
