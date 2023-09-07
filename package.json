@@ -1,13 +1,12 @@
 {
-  "name": "@humanz/react-native-create-thumbnail-33",
+  "name": "@humanz/react-native-create-thumbnail",
   "title": "React Native Create Thumbnail",
   "version": "1.6.4",
   "description": "iOS/Android thumbnail generator with support for both local and remote videos",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/humanzai/react-native-create-thumbnail.git",
-    "baseUrl": "https://github.com/humanzai/react-native-create-thumbnail"
+    "url": "git+https://github.com/humanzai/react-native-create-thumbnail.git"
   },
   "keywords": [
     "react-native"
