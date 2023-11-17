@@ -1,4 +1,4 @@
-declare module "react-native-create-thumbnail" {
+declare module "@easemob/react-native-create-thumbnail" {
   export interface Config {
     url: string;
     timeStamp?: number;
